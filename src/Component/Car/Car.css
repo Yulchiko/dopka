@@ -1,0 +1,12 @@
+.Url{
+    width: 400px;
+    transform: translate(350px, -300px);
+}
+.Update{
+    transform: translate(350px, -290px);
+    width: 400px;
+    height: 30px;
+    font-size: 20px;
+    color: darkred;
+
+}
